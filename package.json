@@ -1,0 +1,14 @@
+{
+  "name": "pokemon-cli-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pokecli.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "chalk": "^4.1.0",
+    "yargs": "^16.0.3"
+  }
+}
